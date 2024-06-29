@@ -2,16 +2,16 @@
 EMS This project is an Employee Management System that allows performing CRUD (Create, Read, Update, Delete) operations on employee records. The backend is developed using Spring Boot, and the frontend is developed using React.js with Semantic UI for widgets and styling.
 
 # Features
-*Create: Add new employees to the system.
-*Read: View details of existing employees.
-*Update: Modify information of employees.
-*Delete: Remove employees from the system.
+* Create: Add new employees to the system.
+* Read: View details of existing employees.
+* Update: Modify information of employees.
+* Delete: Remove employees from the system.
 
 # Technologies Used
-*Backend: Spring Boot
-*Frontend: React.JS
-*Database: H2 Database
-*UI Framework: Semantic UI React
+* Backend: Spring Boot
+* Frontend: React.JS
+* Database: H2 Database
+* UI Framework: Semantic UI React
 
 # Setup Instructions
 ## Backend Setup(Spring Boot)
