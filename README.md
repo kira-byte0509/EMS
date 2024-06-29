@@ -17,14 +17,26 @@ EMS This project is an Employee Management System that allows performing CRUD (C
 ## Backend Setup(Spring Boot)
 
 1. Clone the repository:
+<pre>
+git clone <repository-url>
+</pre>
 2. Navigate to root:
 3. Build the project using Maven:
+<pre>
+mvn clean install
+</pre>
 4. Run the Spring Boot Application:
+<pre>
+mvn spring-boot:run
+</pre>
 The backend server will start running on `http://localhost:8080`.
 
 ## Frontend Setup(React JS)
 1. Navigate to the frontend directory:
 2. Install dependencies:
+<pre>
+npm install
+</pre>
 3. Start the React Development Server:
 The frontend server will start running on `http://localhost:3000`.
 
